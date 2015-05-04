@@ -1,0 +1,19 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+    "description":"Building a node.js web application to perform crud operations using MongoDB as a database"
+  "author" {
+    "name":"praveen kumar gogula",
+    "email":"pgogula@miraclesoft.com"
+},
+  "dependencies": {
+    "express": "3.1.0",
+    "jade": "*",
+    "stylus": "*",
+    "mongodb": ">= 0.9.6-7"
+  }
+}
